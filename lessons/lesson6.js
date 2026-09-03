@@ -12,7 +12,7 @@ else{
 // if hour between 12 and 18 print "Good afternoon"
 //otherwise: Good evening
 
-var hour = 17;
+var hour = 18;
 if (hour >= 6 && hour < 12) {
     console.log("Good morning");
 }
@@ -23,7 +23,7 @@ else {
     console.log("Good evening");
 } 
 var ageismorethaneighteen = true;
-var isUSCitizen = false;
+var isUSCitizen = true;
 
 if(ageismorethaneighteen && isUSCitizen){
     console.log("You are eligible to vote");
