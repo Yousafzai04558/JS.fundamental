@@ -3,13 +3,13 @@ console.log("Hello World");
 
 
 // variables
-var firstname = "John";
-let lastname = "Doe";
+var firstname = "smith";
+let lastname = "johnson";
 console.log(firstname + " " + lastname);
 
 var age, dateOfBirth, sex;
-age = 30;
-dateOfBirth = "01/01/1990";
+age = 40;
+dateOfBirth = "03/06/1997";
 sex = "Male";
 console.log(age + " " + dateOfBirth + " " + sex);
 
