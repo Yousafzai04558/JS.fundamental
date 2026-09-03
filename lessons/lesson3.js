@@ -2,12 +2,12 @@
 var customer = {
     firstname: "John",
     lastname: "Doe",
-    age: 30,
+    age: 20,
     address: {
         street: "123 Main St",
-        city: "Anytown",
+        city: "newyork",
         state: "CA",
-        zip: "12345"
+        zip: "12333"
     }
 };
 

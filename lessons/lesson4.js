@@ -5,11 +5,11 @@
 // <= - less than or equal to
 // == - equal to
 // != - not equal to
-var result1 = 10 > 5; // true
+var result1 = 11 > 5; // true
 var result2 = 10 < 5; // false
-var result3 = 10 >= 10; // true
+var result3 = 14 >= 10; // true
 var result4 = 10 <= 5; // false
-var result5 = 10 == 10; // true
+var result5 = 18 == 10; // true
 var result6 = 10 != 5; // true
 console.log(result1);
 console.log(result2);
