@@ -9,12 +9,12 @@ console.log(firstname + " " + lastname);
 
 var age, dateOfBirth, sex;
 age = 40;
-dateOfBirth = "03/06/1997";
+dateOfBirth = "06/02/1999";
 sex = "Male";
 console.log(age + " " + dateOfBirth + " " + sex);
 
 // constant
-const occupation = "Software Engineer";
+const occupation = "data analyst";
 console.log(occupation);
 
 

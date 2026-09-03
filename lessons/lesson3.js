@@ -15,7 +15,7 @@ var customer = {
 
 customer.firstname = "Jane";
 customer.lastname = "Smith";
-customer.age = 25;
+customer.age = 24;
 
 // bracket notation
 

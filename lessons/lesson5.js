@@ -7,7 +7,7 @@ console.log(false || false); // false
 
 var ageismorethan18
 var isUSCitizen
-ageismorethan18 = false;
+ageismorethan18 = true;
 isUSCitizen = false;
 var eiligiblefordriverlicense = ageismorethan18 && isUSCitizen;
 var eiligibleforvoting = ageismorethan18 || isUSCitizen;
