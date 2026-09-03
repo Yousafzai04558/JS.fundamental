@@ -1,6 +1,6 @@
 // logical operators
 // logical "AND"
-console.log(false && true); // true
+console.log(true && true); // true
 
 // logical "OR"
 console.log(false || false); // false
