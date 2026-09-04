@@ -3,7 +3,7 @@
 console.log(true && true); // true
 
 // logical "OR"
-console.log(false || false); // false
+console.log(true || false); // false
 
 var ageismorethan18
 var isUSCitizen

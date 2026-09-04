@@ -8,7 +8,7 @@ let lastname = "johnson";
 console.log(firstname + " " + lastname);
 
 var age, dateOfBirth, sex;
-age = 40;
+age = 44;
 dateOfBirth = "01/02/1999";
 sex = "Male";
 console.log(age + " " + dateOfBirth + " " + sex);
