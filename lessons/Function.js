@@ -37,5 +37,5 @@ printage(30);
 
 // import everything
 import * as helper from "./helper/printhelper.js";
-helper.printage(40);
+helper.printage(25);
 

@@ -5,7 +5,7 @@ var customer = {
     age: 25,
     address: {
         street: "123 Main St",
-        city: "newyork",
+        city: "Anytown",
         state: "CA",
         zip: "12333"
     }

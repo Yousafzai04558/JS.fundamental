@@ -12,7 +12,7 @@ else{
 // if hour between 12 and 18 print "Good afternoon"
 //otherwise: Good evening
 
-var hour = 12;
+var hour = 10;
 if (hour >= 6 && hour < 12) {
     console.log("Good morning");
 }

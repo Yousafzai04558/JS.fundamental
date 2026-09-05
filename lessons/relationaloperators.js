@@ -8,8 +8,8 @@
 var result1 = 11 > 5; // true
 var result2 = 18 < 5; // false
 var result3 = 12 >= 10; // true
-var result4 = 17 <= 5; // false
-var result5 = 19 == 10; // false
+var result4 = 19 <= 5; // false
+var result5 = 13 == 10; // false
 var result6 = 10 != 5; // true
 console.log(result1);
 console.log(result2);

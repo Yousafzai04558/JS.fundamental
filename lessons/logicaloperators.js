@@ -3,10 +3,10 @@
 console.log(true && true); // true
 
 // logical "OR"
-console.log(true || false); // false
+console.log(false || false); // false
 
-var ageismorethan18
-var isUSCitizen
+var ageismorethan18;
+var isUSCitizen;
 ageismorethan18 = true;
 isUSCitizen = false;
 var eiligiblefordriverlicense = ageismorethan18 && isUSCitizen;

@@ -7,7 +7,7 @@ for (let i = 0; i < 4; i++) {
 var car = ["toyota", "Volvo", "Saab", "Ford"];
 for (let i = 0; i < car.length; i++) {
   console.log(car[i]);
-  if (car[i] === "Volvo") {
+  if (car[i] === "saab") {
     break;
   }
 }
